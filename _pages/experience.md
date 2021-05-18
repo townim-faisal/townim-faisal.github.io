@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Research & Teaching Experience
-* **Research Assistant**, under the supervision of [Dr. Shafin Rahman](https://scholar.google.com/citations?user=Pe8C-SUAAAAJ&hl=en) at [North South University](http://www.northsouth.edu/), Bangladesh. _[October 2020 - Current]_
-* **Research Assistant**, under the supervision of [Dr. Ahsanur Rahman](https://sites.google.com/site/rahmanmahsanur) at [North South University](http://www.northsouth.edu/), Bangladesh. _[October 2020 - Current]_
+* **Research Assistant**, under the supervision of [Dr. Shafin Rahman](https://scholar.google.com/citations?user=Pe8C-SUAAAAJ&hl=en) at [North South University](http://www.northsouth.edu/), Bangladesh. _[January 2020 - Current]_
+* **Research Assistant**, under the supervision of [Dr. Ahsanur Rahman](https://sites.google.com/site/rahmanmahsanur) at [North South University](http://www.northsouth.edu/), Bangladesh. _[October 2020 - March 2020]_
 * **Teaching Assistant** at [North South University](http://www.northsouth.edu/), Bangladesh. _[January 2020 - Current]_
 
 
