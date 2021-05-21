@@ -11,7 +11,7 @@ author_profile: true
 
 * **EKYC – Onboarding Application:**
   * **Technology:** Flask, React js, Nginx, TensorFlow, Keras & OpenCV.
-  * This is an online onboarding system in which users complete a paperless registration by completing automated steps such as face verification and NID information verification. Improving the performance of deep learning models is the major responsibility of mine along with developing REST APIs for the client’s application.
+  * This is an online onboarding system in which users complete a paperless registration by completing automated steps such as face verification and NID information verification. Improving the performance of deep learning models is the major responsibility of mine along with developing REST APIs for the client’s application. [[project link](https://ekyc.ml:5000/)]
 
 * **Deep  Neural Network based Lipid Profile Prediction:**
   * **Technology:** R, ggplot, h2o & shiny. 
