@@ -7,7 +7,7 @@ author_profile: true
 
 * **Hyperparameter Analysis For Image Captioning Based On Different Languages:**
   * **Technology:** Python, PyTorch, Scikit-learn & Numpy. 
-  * We analyzed different hyperparameter combinations for two state-of-the-art image captioning models based on different languages: Chinese, Bangla and English and tried to find suitable combinations of hyperparameters with this analysis. This experiment was carried out under the supervision of [Dr. Md Shahriar Karim](http://ece.northsouth.edu/people/md-shahriar-karim/), Assistant Professor, North South University, Bangladesh. [[project report](https://drive.google.com/file/d/1RLHp4BqY12uxJukbgz71tY8O8vg6cZfu/view?usp=sharing), [presentation video][(https://drive.google.com/file/d/1FbEy_yquE-vvA40NsB3o56vGf_fJJrgI/view?usp=sharing))]
+  * We analyzed different hyperparameter combinations for two state-of-the-art image captioning models based on different languages: Chinese, Bangla and English and tried to find suitable combinations of hyperparameters with this analysis. This experiment was carried out under the supervision of [Dr. Md Shahriar Karim](http://ece.northsouth.edu/people/md-shahriar-karim/), Assistant Professor, North South University, Bangladesh. [[project report](https://drive.google.com/file/d/1RLHp4BqY12uxJukbgz71tY8O8vg6cZfu/view?usp=sharing), [presentation video](https://drive.google.com/file/d/1FbEy_yquE-vvA40NsB3o56vGf_fJJrgI/view?usp=sharing)]
 
 * **EKYC – Onboarding Application:**
   * **Technology:** Flask, React js, Nginx, TensorFlow, Keras & OpenCV.
