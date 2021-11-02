@@ -7,7 +7,7 @@ author_profile: true
 
 * **Hyperparameter Analysis For Image Captioning Based On Different Languages:**
   * **Technology:** Python, PyTorch, Scikit-learn & Numpy. 
-  * We analyzed different hyperparameter combinations for two state-of-the-art image captioning models based on different languages: Chinese, Bangla and English and tried to find suitable combinations of hyperparameters with this analysis. This experiment was carried out under the supervision of [Dr. Md Shahriar Karim](http://ece.northsouth.edu/people/md-shahriar-karim/), Assistant Professor, North South University, Bangladesh. [[project report](https://drive.google.com/file/d/1yM2Kmbu-H5G5oiZjyGQOgjMsYydOWUYl/view?usp=sharing), [presentation video](https://drive.google.com/file/d/1pPwuG_ziK1RVPVgoJeBnRalJmnYIsFIq/view?usp=sharing)]
+  * We analyzed different hyperparameter combinations for two state-of-the-art image captioning models based on different languages: Chinese, Bangla and English and tried to find suitable combinations of hyperparameters with this analysis. This experiment was carried out under the supervision of [Dr. Md Shahriar Karim](http://ece.northsouth.edu/people/md-shahriar-karim/), Assistant Professor, North South University, Bangladesh. [[project report](https://drive.google.com/file/d/1RLHp4BqY12uxJukbgz71tY8O8vg6cZfu/view?usp=sharing), [presentation video][(https://drive.google.com/file/d/1FbEy_yquE-vvA40NsB3o56vGf_fJJrgI/view?usp=sharing))]
 
 * **EKYC – Onboarding Application:**
   * **Technology:** Flask, React js, Nginx, TensorFlow, Keras & OpenCV.
@@ -20,7 +20,7 @@ author_profile: true
 
 * **A Web App for Transportation and Carpooling Mangement in Bangladesh:**
   * **Technology:** PHP, Laravel, MySQL, OpenLayer, pgRouting & postGIS.
-  * In this work, we designed and implemented a web-app for transportation and carpooling management. Our app makes the major services provided by BRTA easily accessible from anywhere, has the potential to reduce cost, environment pollution, and traffic congestions via carpooling, and ensures transparency among all the stakeholders: BRTA, vehicle owners, drivers, and passengers. [[project report](https://drive.google.com/file/d/1Sw6xFWbSCtcevJHOQbrfnLgvPitddsur/view?usp=sharing)]
+  * In this work, we designed and implemented a web-app for transportation and carpooling management. Our app makes the major services provided by BRTA easily accessible from anywhere, has the potential to reduce cost, environment pollution, and traffic congestions via carpooling, and ensures transparency among all the stakeholders: BRTA, vehicle owners, drivers, and passengers. [[project report](https://drive.google.com/file/d/1vLvn1w2t1eOh7kU7HvxB0K1eM_2x3QoI/view?usp=sharing)]
 
 * **eBackup23 - cloud storage management system:**
   * **Technology:** PHP, Laravel, MySQL, Electron js & AWS S3. 
