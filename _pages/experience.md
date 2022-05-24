@@ -12,7 +12,7 @@ author_profile: true
 
 
 ## Industry Experience
-* **Software Engineer (ML Developer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[October 2020 - Current]_
+* **Software Engineer II (ML Developer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[October 2020 - Current]_
 * **Associate Software Engineer (Part-time)** at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[June 2019 - September 2020]_
 * **Web Developer (Part-time)** at School of Engineering and Physical Science, [North South University](http://www.northsouth.edu/), Bangladesh. _[March 2018 - February 2019]_
 * **Intern Software Engineer** at [Rokomari](https://www.rokomari.com/), Bangladesh. _[September 2016 - November 2016]_
