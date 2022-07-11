@@ -19,7 +19,6 @@ author_profile: true
 ## 2022
 
 * <ins>Townim Chowdhury</ins>, Ali Cheraghian, Sameera Ramasinghe, Sahar Ahmadi, Morteza Saberi, and Shafin Rahman, **“Few-shot Class-incremental Learning for 3D Point Cloud Objects,”** In _European Conference on Computer Vision (ECCV)_ (accepted), 2022. [[arxiv](https://arxiv.org/abs/2205.15225)]
-* 
 * Md Hossain, Pritom Saha, <ins>Townim Chowdhury</ins>, Shafin Rahman, Fuad Rahman, and Nabeel Mohammed, **“Rethinking Task-Incremental Learning Baselines,”** In _International Conference on Pattern Recognition (ICPR)_, 2022 (accepted).
 
 ## 2021
