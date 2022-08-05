@@ -12,4 +12,4 @@ Currently, I am a research assistant at [North South University](http://www.nort
 
 My research interests lies in computer vision of deep learning: 3D point cloud objects, meta learning, continual learning, face verification, face anti-spoofing, medical imaging. 
 
-**For additional information, please see the [CV](https://drive.google.com/file/d/1imV2NKStrdlXyBuCe2uPnwVwT2pd2UT6/view?usp=sharing) _(Last Updated on July 11, 2022)_.**
+**For additional information, please see the [CV](https://drive.google.com/file/d/1imV2NKStrdlXyBuCe2uPnwVwT2pd2UT6/view?usp=sharing) _(Last Updated on August 05, 2022)_.**
