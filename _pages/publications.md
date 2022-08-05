@@ -18,7 +18,7 @@ author_profile: true
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?user=Jwefna0AAAAJ&hl=en&authuser=1).**
 ## 2022
 
-* <ins>Townim Chowdhury</ins>, Ali Cheraghian, Sameera Ramasinghe, Sahar Ahmadi, Morteza Saberi, and Shafin Rahman, **“Few-shot Class-incremental Learning for 3D Point Cloud Objects,”** In _European Conference on Computer Vision (ECCV)_ (accepted), 2022. [[code](https://github.com/townim-faisal/FSCIL-3D), [arxiv](https://arxiv.org/abs/2205.15225)]
+* <ins>Townim Chowdhury</ins>, Ali Cheraghian, Sameera Ramasinghe, Sahar Ahmadi, Morteza Saberi, and Shafin Rahman, **“Few-shot Class-incremental Learning for 3D Point Cloud Objects,”** In _European Conference on Computer Vision (ECCV)_, 2022 (accepted). [[code](https://github.com/townim-faisal/FSCIL-3D), [arxiv](https://arxiv.org/abs/2205.15225)]
 * Md Hossain, Pritom Saha, <ins>Townim Chowdhury</ins>, Shafin Rahman, Fuad Rahman, and Nabeel Mohammed, **“Rethinking Task-Incremental Learning Baselines,”** In _International Conference on Pattern Recognition (ICPR)_, 2022 (accepted). [[arxiv](https://arxiv.org/abs/2205.11367)]
 * Ali Cheraghian, Shafin Rahman, <ins>Townim Chowdhury</ins>, Dylan Campbell, and Lars Petersson,, **“Zero-shot learning on 3d point cloud objects and beyond,”** In _International Journal of Computer Vision (IJCV)_, 2022. [[arxiv](https://arxiv.org/abs/2104.04980), [paper](https://link.springer.com/article/10.1007/s11263-022-01650-4)] 
 
