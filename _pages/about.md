@@ -3,9 +3,6 @@ permalink: /
 # title: "About Me"
 excerpt: "About me"
 author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
 ---
 
 Greetings, I am Townim Faisal Chowdhury 😊. I have earned B.Sc degree in Computer Science & Engineering with Summa cum-laude from [North South University](http://www.northsouth.edu/), Dhaka, Bangladesh. Currently, I am a research assistant at [North South University](http://www.northsouth.edu/), Bangladesh, where I work on computer vision under the supervision of [Dr. Shafin Rahman](https://scholar.google.com/citations?user=Pe8C-SUAAAAJ&hl=en). I have also served as a research assistant under [Dr. Ahsanur Rahman](https://sites.google.com/site/rahmanmahsanur)'s supervision. 
