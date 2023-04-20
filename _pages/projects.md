@@ -1,9 +1,18 @@
 ---
 layout: archive
-title: "Projects"
+title: "Selected Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+* **AUGUSTUS – Violence Detection through Home Application:**
+  * * **Technology:** Airflow, DVC, MLflow, YOLOv5 & GCP. 
+  * The primary goal of this project was to identify violent objects in real-time from any European street or home camera. If a violent object is discovered, the user will be notified. However, in the future, violence will also be identified by human actions. My primary responsibility was to build a fully customised machine learning and data pipeline with Airflow in a Google VM instance, using DVC to version control data and models and MLflow to modify hyperparameters. In addition, I managed the team working to increase the accuracy of YOLOv5’s violent object recognition and data production. 
+
+
+* **Deep  Neural Network based Lipid Profile Prediction:**
+  * **Technology:** R, ggplot, h2o & shiny. 
+  * This study was aimed to develop an artificial neural network (ANN) based model with various input combinations to predict lipid profiles of the US adults using non-invasive and low-cost diagnostic features. This project was supervised under the supervision of [Juwel Rana](http://www.northsouth.edu/faculty-members/shls/pbh/juwel-rana.html), Lecturer in Department of Public Health, North South University, Bangladesh. [[project link](https://jrana.shinyapps.io/lipidr/)]
 
 * **Hyperparameter Analysis For Image Captioning Based On Different Languages:**
   * **Technology:** Python, PyTorch, Scikit-learn & Numpy. 
@@ -13,10 +22,9 @@ author_profile: true
   * **Technology:** Flask, React js, Nginx, TensorFlow, Keras & OpenCV.
   * This is an online onboarding system in which users complete a paperless registration by completing automated steps such as face verification and NID information verification. Improving the performance of deep learning models is the major responsibility of mine along with developing REST APIs for the client’s application. [[project link](https://ekyc.ml:5000/)]
 
-* **Deep  Neural Network based Lipid Profile Prediction:**
-  * **Technology:** R, ggplot, h2o & shiny. 
-  * This study was aimed to develop an artificial neural network (ANN) based model with various input combinations to predict lipid profiles of the US adults using non-invasive and low-cost diagnostic features. This project was supervised under the supervision of [Juwel Rana](http://www.northsouth.edu/faculty-members/shls/pbh/juwel-rana.html), Lecturer in Department of Public Health, North South University, Bangladesh. [[project link](https://jrana.shinyapps.io/lipidr/)]
-
+* **Data Growers:** 
+  * **Technology:** Azure, Google Bigquery, SQL & SSMS..
+  * The company provides excellent Business Intelligence and Analytics solutions that increase a nursery’s profitability. My primary duty is to create ETL tools for the data warehouse. Before storing them in staging databases, data must be extracted from multiple sources and transformed. Then, import the data into the reporting database to display the Yellowfin analytics report. 
 
 * **A Web App for Transportation and Carpooling Mangement in Bangladesh:**
   * **Technology:** PHP, Laravel, MySQL, OpenLayer, pgRouting & postGIS.
