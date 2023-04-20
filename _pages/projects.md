@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **AUGUSTUS – Violence Detection through Home Application:**
-  * * **Technology:** Airflow, DVC, MLflow, YOLOv5 & GCP. 
+  * **Technology:** Airflow, DVC, MLflow, YOLOv5 & GCP. 
   * The primary goal of this project was to identify violent objects in real-time from any European street or home camera. If a violent object is discovered, the user will be notified. However, in the future, violence will also be identified by human actions. My primary responsibility was to build a fully customised machine learning and data pipeline with Airflow in a Google VM instance, using DVC to version control data and models and MLflow to modify hyperparameters. In addition, I managed the team working to increase the accuracy of YOLOv5’s violent object recognition and data production. 
 
 
