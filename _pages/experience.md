@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research & Teaching Experience
-* **PhD Researcher**, under the supervision of [Dr. Johan Verjans](https://researchers.adelaide.edu.au/profile/johan.verjans) and [Dr. Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl) in Medical Machine Learning group at the Centre for Augmented Reasoning, [Australian Institute of Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/about-us), [University of Adelaide](https://www.adelaide.edu.au/), Australia. _[March 2023 - Current]_
+* **PhD Researcher**, under the supervision of  [Dr. Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl), [Dr. Johan Verjans](https://researchers.adelaide.edu.au/profile/johan.verjans) and [Dr. Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en) in Medical Machine Learning group at the Centre for Augmented Reasoning, [Australian Institute of Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/about-us), [University of Adelaide](https://www.adelaide.edu.au/), Australia. _[March 2023 - Current]_
 * **Research Assistant**, under the supervision of [Dr. Shafin Rahman](https://scholar.google.com/citations?user=Pe8C-SUAAAAJ&hl=en) at [North South University](http://www.northsouth.edu/), Bangladesh. _[October 2020 - November 2022]_
 * **Research Assistant**, under the supervision of [Dr. Ahsanur Rahman](https://sites.google.com/site/rahmanmahsanur) at [North South University](http://www.northsouth.edu/), Bangladesh. _[October 2020 - March 2021]_
 * **Teaching Assistant** at [North South University](http://www.northsouth.edu/), Bangladesh. _[January 2020 - September 2022]_

@@ -18,7 +18,7 @@ author_profile: true
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?user=Jwefna0AAAAJ&hl=en&authuser=1).**
 
 ## 2024
-* <ins>Townim Faisal Chowdhury</ins>, Kewen Liao, Minh Hieu Phan, Minh-Son To, Yutong Xie, Kevin Hung, David Ross, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao, **“CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation,”** In _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2024. <span style="color:violet">(ORAL)</span>. [code and paper will be released soon]
+* <ins>Townim Faisal Chowdhury</ins>, Kewen Liao, Minh Hieu Phan, Minh-Son To, Yutong Xie, Kevin Hung, David Ross, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao, **“CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation,”** In _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2024. [code and paper will be released soon]
 
 ## 2023
 * Fahimul Hoque Shubho, <ins>Townim Faisal Chowdhury</ins>, Ali Cheraghian, Morteza Saberi, Nabeel Mohammed, and Shafin Rahman, **“ChatGPT-guided Semantics for Zero-shot Learning,”** In _International Conference on Digital Image Computing: Techniques and Applications (DICTA)_, 2023. <span style="color:violet">(ORAL)</span>. [[arxiv](https://arxiv.org/pdf/2310.11657.pdf)] 
