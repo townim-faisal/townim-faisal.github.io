@@ -16,4 +16,4 @@ In addition, I have 4+ years of professional experience in the industry with a b
 
 I am actively doing research in the computer vision field. My research interests lies in computer vision of deep learning: explainable AI, medical imaging, meta learning, continual learning, 3D point cloud objects. 
 
-**For additional information, please see the [CV](https://drive.google.com/file/d/1imV2NKStrdlXyBuCe2uPnwVwT2pd2UT6/view?usp=sharing) _(Last Updated on April 20, 2022)_.**
+**For additional information, please see the [CV](https://drive.google.com/file/d/1imV2NKStrdlXyBuCe2uPnwVwT2pd2UT6/view?usp=sharing) _(Last Updated on February 29, 2024)_.**
