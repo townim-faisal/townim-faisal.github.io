@@ -17,6 +17,13 @@ author_profile: true
 
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?user=Jwefna0AAAAJ&hl=en&authuser=1).**
 
+## 2025
+* <ins>Townim Faisal Chowdhury</ins>, Vu Minh Hieu Phan, Kewen Liao, Nanyu Dong, Minh-Son To, Anton Hengel, Johan Verjans, and Zhibin Liao, **“Looking in the mirror: A faithful counterfactual explanation method for interpreting deep image classification
+models,”** In _IEEE/CVF International Conference on Computer Visione (ICCV)_, 2025. [<span style="color:magenta">(top 2% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [coming soon] 
+*  Nanyu Dong, <ins>Townim Faisal Chowdhury</ins>, Vu Minh Hieu Phan, Mark Jenkinson, Johan Verjans, and Zhibin Liao, **“From Healthy
+Scans to Annotated Tumors: A Tumor Fabrication Framework for 3D Brain MRI Synthesis,”** In _International Conference on
+Digital Image Computing: Techniques and Applications (DICTA)_, 2025. 
+
 ## 2024
 * <ins>Townim Faisal Chowdhury</ins>, Kewen Liao, Minh Hieu Phan, Minh-Son To, Yutong Xie, Kevin Hung, David Ross, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao, **“CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation,”** In _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2024. [<span style="color:magenta">(top 1% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [[paper website](https://openaccess.thecvf.com/content/CVPR2024/html/Chowdhury_CAPE_CAM_as_a_Probabilistic_Ensemble_for_Enhanced_DNN_Interpretation_CVPR_2024_paper.html), [arxiv](https://arxiv.org/abs/2404.02388), [code](https://github.com/AIML-MED/CAPE), [video](https://youtu.be/795LpFwni7c)] 
 * <ins>Townim Faisal Chowdhury</ins>, Kewen Liao, Minh Hieu Phan, Minh-Son To, Yutong Xie, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao, **“AdaCBM: An Adaptive Concept Bottleneck Model for Explainable and Accurate Diagnosis,”** In _Medical Image Computing and Computer Assisted Intervention (MICCAI)_, 2024 [<span style="color:magenta">(top 5% medical imaging conference)</span>](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_radiologymedicalimaging). [[paper](https://papers.miccai.org/miccai-2024/045-Paper3895.html), [arxiv](https://www.arxiv.org/abs/2408.02001)]

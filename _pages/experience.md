@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Industry Experience
-* **Research Scientist Intern** at [Dolby Laboratories](https://www.dolby.com/), Australia. _[May 2025 - August 2025]_
+* **Research Scientist Intern** at [Dolby Laboratories](https://www.dolby.com/), Australia. _[May 2025 - September 2025]_
 * **Software Engineer (Data Engineer)** at [Cefalo](https://www.cefalo.com/en/), Bangladesh. _[November 2022 - March 2023]_
 * **Senior Software Engineer (ML Engineer)** in R&D team at [Brain Station 23](https://brainstation-23.com/), Bangladesh. _[June 2019 - October 2022]_
 * **Web Developer** at School of Engineering and Physical Science, [North South University](http://www.northsouth.edu/), Bangladesh. _[March 2018 - February 2019]_
