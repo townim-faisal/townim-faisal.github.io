@@ -22,7 +22,7 @@ author_profile: true
 models,”** In _IEEE/CVF International Conference on Computer Visione (ICCV)_, 2025. [<span style="color:magenta">(top 2% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [[arxiv](https://arxiv.org/abs/2509.16822)] 
 *  Nanyu Dong, <ins>Townim Faisal Chowdhury</ins>, Vu Minh Hieu Phan, Mark Jenkinson, Johan Verjans, and Zhibin Liao, **“From Healthy
 Scans to Annotated Tumors: A Tumor Fabrication Framework for 3D Brain MRI Synthesis,”** In _International Conference on
-Digital Image Computing: Techniques and Applications (DICTA)_, 2025. 
+Digital Image Computing: Techniques and Applications (DICTA)_, 2025. <span style="color:violet">(ORAL)</span> 
 
 ## 2024
 * <ins>Townim Faisal Chowdhury</ins>, Kewen Liao, Minh Hieu Phan, Minh-Son To, Yutong Xie, Kevin Hung, David Ross, Anton van den Hengel, Johan W. Verjans, and Zhibin Liao, **“CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation,”** In _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2024. [<span style="color:magenta">(top 1% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [[paper website](https://openaccess.thecvf.com/content/CVPR2024/html/Chowdhury_CAPE_CAM_as_a_Probabilistic_Ensemble_for_Enhanced_DNN_Interpretation_CVPR_2024_paper.html), [arxiv](https://arxiv.org/abs/2404.02388), [code](https://github.com/AIML-MED/CAPE), [video](https://youtu.be/795LpFwni7c)] 
