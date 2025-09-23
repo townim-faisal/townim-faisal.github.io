@@ -19,7 +19,7 @@ author_profile: true
 
 ## 2025
 * <ins>Townim Faisal Chowdhury</ins>, Vu Minh Hieu Phan, Kewen Liao, Nanyu Dong, Minh-Son To, Anton Hengel, Johan Verjans, and Zhibin Liao, **“Looking in the mirror: A faithful counterfactual explanation method for interpreting deep image classification
-models,”** In _IEEE/CVF International Conference on Computer Visione (ICCV)_, 2025. [<span style="color:magenta">(top 2% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [coming soon] 
+models,”** In _IEEE/CVF International Conference on Computer Visione (ICCV)_, 2025. [<span style="color:magenta">(top 2% conference in computer vision and pattern recognition)</span>](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) [[arxiv](https://arxiv.org/abs/2509.16822)] 
 *  Nanyu Dong, <ins>Townim Faisal Chowdhury</ins>, Vu Minh Hieu Phan, Mark Jenkinson, Johan Verjans, and Zhibin Liao, **“From Healthy
 Scans to Annotated Tumors: A Tumor Fabrication Framework for 3D Brain MRI Synthesis,”** In _International Conference on
 Digital Image Computing: Techniques and Applications (DICTA)_, 2025. 
