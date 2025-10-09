@@ -20,6 +20,6 @@ Before my Ph.D., I earned my **B.Sc. in Computer Science & Engineering (Summa Cu
 My broader research interests span **multimodal AI, model's interpretability, generative AI, meta-learning, and continual learning**. I enjoy bridging research and application—whether that’s developing interpretable AI for healthcare or tackling new challenges in large-scale ML systems that have real impact on human lives.
 
 👉 You can explore my **[publications](https://scholar.google.com/citations?user=Jwefna0AAAAJ)** and **[LinkedIn](https://www.linkedin.com/in/townim-faisal-chowdhury/)** for more details.  
-**Currently, I am actively seeking Research Scientist or Applied Scientist opportunities.**
+**Currently, I am actively seeking Research Scientist, Applied Scientist opportunities, and Postdoctoral opportunities.** I would love to connect and collaborate on impactful research.
 
 **For additional information, please see the [CV](https://drive.google.com/file/d/1imV2NKStrdlXyBuCe2uPnwVwT2pd2UT6/view?usp=sharing) _(Last Updated on Oct 10, 2025)_.**
