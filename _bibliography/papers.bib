@@ -1,0 +1,213 @@
+---
+---
+
+% Publications rendered by jekyll-scholar.
+% Useful fields: abbr (venue badge, colours in _data/venues.yml), selected={true} (shows on the home page),
+% arxiv, code, website, html, pdf, video, poster, slides, preview (image in assets/img/publication_preview/),
+% award + award_name (badge such as "Oral"), bibtex_show={true} (adds a BIB button).
+
+@inproceedings{chowdhury2026gradtrack,
+  abbr        = {NeurIPS},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment},
+  author      = {Chowdhury, Townim Faisal and Huy, Ta Duc and Phan, Vu Minh Hieu and van den Hengel, Anton and Verjans, Johan W. and Carneiro, Gustavo and Liao, Zhibin},
+  booktitle   = {The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year        = {2026}
+}
+
+@inproceedings{huy2026vse,
+  abbr        = {ECCV},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {Visual Semantic Entropy: Do Vision Language Models Recognize Visual Ambiguity?},
+  author      = {Huy, Ta Duc and Nguyen, Trang and Chowdhury, Townim Faisal and Yadav, Ankit and To, Minh-Son and Liao, Zhibin and Verjans, Johan W. and Phan, Vu Minh Hieu},
+  booktitle   = {European Conference on Computer Vision (ECCV)},
+  year        = {2026},
+  arxiv       = {2606.31407},
+  abstract    = {Vision-language models can produce confident answers on visually ambiguous inputs, resulting in biased predictions. Common entropy-based methods, such as Semantic Entropy (SE), rely on output diversity. Yet our analysis shows that overconfident visual embeddings suppress output diversity under stochastic decoding, causing SE to underestimate uncertainty in such cases. Recent methods instead probe output diversity through input perturbations, including textual paraphrasing or joint text-image perturbations, and show improved performance. We study these approaches and reveal that the resulting variability is often dominated by textual changes rather than visual evidence, causing uncertainty estimates to reflect prompt sensitivity rather than visual ambiguity. We therefore propose Visual Semantic Entropy (VSE), which perturbs only the image to probe nearby visual variations while keeping the text query fixed. VSE measures uncertainty by clustering generated answers into semantic prototypes and computing the mass-weighted dispersion among them. Extensive evaluation across five modern vision-language models and five diverse VQA benchmarks demonstrates that VSE effectively captures visual ambiguity, establishing a new state-of-the-art for VLM uncertainty estimation.}
+}
+
+@inproceedings{faisal2026ard,
+  abbr        = {ICASSP},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {AR\&D: A Framework for Retrieving and Describing Concepts for Interpreting AudioLLMs},
+  author      = {Faisal, Townim and Huy, Ta Duc and Pan, Siqi and Stoddard, Jeremy and Liao, Zhibin},
+  booktitle   = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year        = {2026},
+  arxiv       = {2602.22253},
+  website     = {https://townim-faisal.github.io/AutoInterpret-AudioLLM/},
+  award_name  = {Oral},
+  award       = {Selected for **oral presentation** at ICASSP 2026.},
+  abstract    = {Despite strong performance in audio perception tasks, large audio-language models (AudioLLMs) remain opaque to interpretation. A major factor behind this lack of interpretability is that individual neurons in these models frequently activate in response to several unrelated concepts. We introduce the first mechanistic interpretability framework for AudioLLMs, leveraging sparse autoencoders (SAEs) to disentangle polysemantic activations into monosemantic features. Our pipeline identifies representative audio clips, assigns meaningful names via automated captioning, and validates concepts through human evaluation and steering. Experiments show that AudioLLMs encode structured and interpretable features, enhancing transparency and control. This work provides a foundation for trustworthy deployment in high-stakes domains and enables future extensions to larger models, multilingual audio, and more fine-grained paralinguistic features.}
+}
+
+@inproceedings{chowdhury2025mirror,
+  abbr        = {ICCV},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {Looking in the Mirror: A Faithful Counterfactual Explanation Method for Interpreting Deep Image Classification Models},
+  author      = {Chowdhury, Townim Faisal and Phan, Vu Minh Hieu and Liao, Kewen and Dong, Nanyu and To, Minh-Son and van den Hengel, Anton and Verjans, Johan W. and Liao, Zhibin},
+  booktitle   = {IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year        = {2025},
+  arxiv       = {2509.16822},
+  website     = {https://aiml-med.github.io/Mirror-CFE/},
+  award_name  = {Oral},
+  award       = {Selected for **oral presentation** at ICCV 2025, and at the Kingston AI Symposium 2026.},
+  abstract    = {Counterfactual explanations (CFE) for deep image classifiers aim to reveal how minimal input changes lead to different model decisions, providing critical insights for model interpretation and improvement. However, existing CFE methods often rely on additional image encoders and generative models to create plausible images, neglecting the classifier's own feature space and decision boundaries. As such, they do not explain the intrinsic feature space and decision boundaries learned by the classifier. To address this limitation, we propose Mirror-CFE, a novel method that generates faithful counterfactual explanations by operating directly in the classifier's feature space, treating decision boundaries as mirrors that "reflect" feature representations in the mirror. Mirror-CFE learns a mapping function from feature space to image space while preserving distance relationships, enabling smooth transitions between source images and their counterfactuals. Through extensive experiments on four image datasets, we demonstrate that Mirror-CFE achieves superior performance in validity while maintaining input resemblance compared to state-of-the-art explanation methods. Finally, Mirror-CFE provides interpretable visualization of the classifier's decision process by generating step-wise transitions that reveal how features evolve as classification confidence changes.}
+}
+
+@inproceedings{dong2025tumor,
+  abbr        = {DICTA},
+  bibtex_show = {true},
+  title       = {From Healthy Scans to Annotated Tumors: A Tumor Fabrication Framework for 3D Brain MRI Synthesis},
+  author      = {Dong, Nanyu and Chowdhury, Townim Faisal and Phan, Vu Minh Hieu and Jenkinson, Mark and Verjans, Johan W. and Liao, Zhibin},
+  booktitle   = {International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  year        = {2025},
+  award_name  = {Oral},
+  award       = {Selected for **oral presentation** at DICTA 2025.}
+}
+
+@inproceedings{chowdhury2024cape,
+  abbr        = {CVPR},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation},
+  author      = {Chowdhury, Townim Faisal and Liao, Kewen and Phan, Vu Minh Hieu and To, Minh-Son and Xie, Yutong and Hung, Kevin and Ross, David and van den Hengel, Anton and Verjans, Johan W. and Liao, Zhibin},
+  booktitle   = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year        = {2024},
+  arxiv       = {2404.02388},
+  html        = {https://openaccess.thecvf.com/content/CVPR2024/html/Chowdhury_CAPE_CAM_as_a_Probabilistic_Ensemble_for_Enhanced_DNN_Interpretation_CVPR_2024_paper.html},
+  code        = {https://github.com/AIML-MED/CAPE},
+  video       = {https://youtu.be/795LpFwni7c},
+  abstract    = {Deep Neural Networks (DNNs) are widely used for visual classification tasks, but their complex computation process and black-box nature hinder decision transparency and interpretability. Class activation maps (CAMs) and recent variants provide ways to visually explain the DNN decision-making process by displaying 'attention' heatmaps of the DNNs. Nevertheless, the CAM explanation only offers relative attention information, that is, on an attention heatmap, we can interpret which image region is more or less important than the others. However, these regions cannot be meaningfully compared across classes, and the contribution of each region to the model's class prediction is not revealed. To address these challenges that ultimately lead to better DNN Interpretation, in this paper, we propose CAPE, a novel reformulation of CAM that provides a unified and probabilistically meaningful assessment of the contributions of image regions. We quantitatively and qualitatively compare CAPE with state-of-the-art CAM methods on CUB and ImageNet benchmark datasets to demonstrate enhanced interpretability. We also test on a cytology imaging dataset depicting a challenging Chronic Myelomonocytic Leukemia (CMML) diagnosis problem.}
+}
+
+@inproceedings{chowdhury2024adacbm,
+  abbr        = {MICCAI},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {AdaCBM: An Adaptive Concept Bottleneck Model for Explainable and Accurate Diagnosis},
+  author      = {Chowdhury, Townim Faisal and Phan, Vu Minh Hieu and Liao, Kewen and To, Minh-Son and Xie, Yutong and van den Hengel, Anton and Verjans, Johan W. and Liao, Zhibin},
+  booktitle   = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  year        = {2024},
+  arxiv       = {2408.02001},
+  html        = {https://papers.miccai.org/miccai-2024/045-Paper3895.html},
+  abstract    = {The integration of vision-language models such as CLIP and Concept Bottleneck Models (CBMs) offers a promising approach to explaining deep neural network (DNN) decisions using concepts understandable by humans, addressing the black-box concern of DNNs. While CLIP provides both explainability and zero-shot classification capability, its pre-training on generic image and text data may limit its classification accuracy and applicability to medical image diagnostic tasks, creating a transfer learning problem. To maintain explainability and address transfer learning needs, CBM methods commonly design post-processing modules after the bottleneck module. However, this way has been ineffective. This paper takes an unconventional approach by re-examining the CBM framework through the lens of its geometrical representation as a simple linear classification system. The analysis uncovers that post-CBM fine-tuning modules merely rescale and shift the classification outcome of the system, failing to fully leverage the system's learning potential. We introduce an adaptive module strategically positioned between CLIP and CBM to bridge the gap between source and downstream domains. This simple yet effective approach enhances classification performance while preserving the explainability afforded by the framework. Our work offers a comprehensive solution that encompasses the entire process, from concept discovery to model training, providing a holistic recipe for leveraging the strengths of GPT, CLIP, and CBM.}
+}
+
+@inproceedings{rahman2024pseudoclique,
+  abbr        = {KDD},
+  bibtex_show = {true},
+  title       = {A Fast Exact Algorithm to Enumerate Maximal Pseudo-cliques in Large Sparse Graphs},
+  author      = {Rahman, Ahsanur and Roy, Kalyan and Maliha, Ramiza and Chowdhury, Townim Faisal},
+  booktitle   = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+  year        = {2024},
+  html        = {https://dl.acm.org/doi/10.1145/3637528.3672066},
+  doi         = {10.1145/3637528.3672066}
+}
+
+@article{ahmadi2024scene,
+  abbr        = {CVIU},
+  bibtex_show = {true},
+  title       = {3D Scene Generation for Zero-Shot Learning Using ChatGPT Guided Language Prompts},
+  author      = {Ahmadi, Sahar and Cheraghian, Ali and Chowdhury, Townim Faisal and Saberi, Morteza and Rahman, Shafin},
+  journal     = {Computer Vision and Image Understanding (CVIU)},
+  year        = {2024},
+  html        = {https://www.sciencedirect.com/science/article/pii/S1077314224002923}
+}
+
+@inproceedings{shubho2023chatgpt,
+  abbr        = {DICTA},
+  bibtex_show = {true},
+  title       = {ChatGPT-guided Semantics for Zero-shot Learning},
+  author      = {Shubho, Fahimul Hoque and Chowdhury, Townim Faisal and Cheraghian, Ali and Saberi, Morteza and Mohammed, Nabeel and Rahman, Shafin},
+  booktitle   = {International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  year        = {2023},
+  arxiv       = {2310.11657},
+  award_name  = {Oral},
+  award       = {Selected for **oral presentation** at DICTA 2023.},
+  abstract    = {Zero-shot learning (ZSL) aims to classify objects that are not observed or seen during training. It relies on class semantic description to transfer knowledge from the seen classes to the unseen classes. Existing methods of obtaining class semantics include manual attributes or automatic word vectors from language models (like word2vec). We know attribute annotation is costly, whereas automatic word-vectors are relatively noisy. To address this problem, we explore how ChatGPT, a large language model, can enhance class semantics for ZSL tasks. ChatGPT can be a helpful source to obtain text descriptions for each class containing related attributes and semantics. We use the word2vec model to get a word vector using the texts from ChatGPT. Then, we enrich word vectors by combining the word embeddings from class names and descriptions generated by ChatGPT. More specifically, we leverage ChatGPT to provide extra supervision for the class description, eventually benefiting ZSL models. We evaluate our approach on various 2D image (CUB and AwA) and 3D point cloud (ModelNet10, ModelNet40, and ScanObjectNN) datasets and show that it improves ZSL performance. Our work contributes to the ZSL literature by applying ChatGPT for class semantics enhancement and proposing a novel word vector fusion method.}
+}
+
+@inproceedings{nasiri2022prompt,
+  abbr        = {DICTA},
+  bibtex_show = {true},
+  title       = {Prompt-guided Scene Generation for 3D Zero-Shot Learning},
+  author      = {Nasiri, Majid and Cheraghian, Ali and Chowdhury, Townim Faisal and Ahmadi, Sahar and Saberi, Morteza and Rahman, Shafin},
+  booktitle   = {International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  year        = {2022},
+  arxiv       = {2209.14690},
+  award_name  = {Best Paper Runner-Up},
+  award       = {**Oral presentation**, and winner of the **DICTA 2022 Runner-Up APRS/IAPR Best Paper Award**.},
+  abstract    = {Zero-shot learning on 3D point cloud data is a related underexplored problem compared to its 2D image counterpart. 3D data brings new challenges for ZSL due to the unavailability of robust pre-trained feature extraction models. To address this problem, we propose a prompt-guided 3D scene generation and supervision method that augments 3D data to learn the network better, exploring the complex interplay of seen and unseen objects. First, we merge point clouds of two 3D models in certain ways described by a prompt. The prompt acts like the annotation describing each 3D scene. Later, we perform contrastive learning to train our proposed architecture in an end-to-end manner. We argue that 3D scenes can relate objects more efficiently than single objects because popular language models (like BERT) can achieve high performance when objects appear in a context. Our proposed prompt-guided scene generation method encapsulates data augmentation and prompt-based annotation/captioning to improve 3D ZSL performance. We have achieved state-of-the-art ZSL and generalized ZSL performance on synthetic (ModelNet40, ModelNet10) and real-scanned (ScanObjectNN) 3D object datasets.}
+}
+
+@inproceedings{chowdhury2022fscil,
+  abbr        = {ECCV},
+  bibtex_show = {true},
+  title       = {Few-shot Class-incremental Learning for 3D Point Cloud Objects},
+  author      = {Chowdhury, Townim and Cheraghian, Ali and Ramasinghe, Sameera and Ahmadi, Sahar and Saberi, Morteza and Rahman, Shafin},
+  booktitle   = {European Conference on Computer Vision (ECCV)},
+  year        = {2022},
+  arxiv       = {2205.15225},
+  html        = {https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3641_ECCV_2022_paper.php},
+  code        = {https://github.com/townim-faisal/FSCIL-3D},
+  video       = {https://drive.google.com/file/d/1MSxjX00gbtmlGycZ5MN3-I2e2DpsmmyH/view?usp=share_link},
+  poster      = {https://drive.google.com/file/d/1UpElr4wJRWPWaTrGmIHI3EDlzG7AvFMy/view?usp=share_link},
+  abstract    = {Few-shot class-incremental learning (FSCIL) aims to incrementally fine-tune a model (trained on base classes) for a novel set of classes using a few examples without forgetting the previous training. Recent efforts address this problem primarily on 2D images. However, due to the advancement of camera technology, 3D point cloud data has become more available than ever, which warrants considering FSCIL on 3D data. This paper addresses FSCIL in the 3D domain. In addition to well-known issues of catastrophic forgetting of past knowledge and overfitting of few-shot data, 3D FSCIL can bring newer challenges. For example, base classes may contain many synthetic instances in a realistic scenario. In contrast, only a few real-scanned samples (from RGBD sensors) of novel classes are available in incremental steps. Due to the data variation from synthetic to real, FSCIL endures additional challenges, degrading performance in later incremental steps. We attempt to solve this problem using Microshapes (orthogonal basis vectors) by describing any 3D objects using a pre-defined set of rules. It supports incremental training with few-shot examples minimizing synthetic to real data variation. We propose new test protocols for 3D FSCIL using popular synthetic datasets (ModelNet and ShapeNet) and 3D real-scanned datasets (ScanObjectNN and CO3D). By comparing state-of-the-art methods, we establish the effectiveness of our approach in the 3D domain.}
+}
+
+@inproceedings{hossain2022rethinking,
+  abbr        = {ICPR},
+  bibtex_show = {true},
+  title       = {Rethinking Task-Incremental Learning Baselines},
+  author      = {Hossain, Md and Saha, Pritom and Chowdhury, Townim and Rahman, Shafin and Rahman, Fuad and Mohammed, Nabeel},
+  booktitle   = {International Conference on Pattern Recognition (ICPR)},
+  year        = {2022},
+  arxiv       = {2205.11367},
+  abstract    = {It is common to have continuous streams of new data that need to be introduced in the system in real-world applications. The model needs to learn newly added capabilities (future tasks) while retaining the old knowledge (past tasks). Incremental learning has recently become increasingly appealing for this problem. Task-incremental learning is a kind of incremental learning where task identity of newly included task (a set of classes) remains known during inference. A common goal of task-incremental methods is to design a network that can operate on minimal size, maintaining decent performance. To manage the stability-plasticity dilemma, different methods utilize replay memory of past tasks, specialized hardware, regularization monitoring etc. However, these methods are still less memory efficient in terms of architecture growth or input data costs. In this study, we present a simple yet effective adjustment network (SAN) for task incremental learning that achieves near state-of-the-art performance while using minimal architectural size without using memory instances compared to previous state-of-the-art approaches. We investigate this approach on both 3D point cloud object (ModelNet40) and 2D image (CIFAR10, CIFAR100, MiniImageNet, MNIST, PermutedMNIST, notMNIST, SVHN, and FashionMNIST) recognition tasks and establish a strong baseline result for a fair comparison with existing methods. On both 2D and 3D domains, we also observe that SAN is primarily unaffected by different task orders in a task-incremental setting.}
+}
+
+@article{cheraghian2022zsl3d,
+  abbr        = {IJCV},
+  bibtex_show = {true},
+  title       = {Zero-Shot Learning on 3D Point Cloud Objects and Beyond},
+  author      = {Cheraghian, Ali and Rahman, Shafin and Chowdhury, Townim and Campbell, Dylan and Petersson, Lars},
+  journal     = {International Journal of Computer Vision (IJCV)},
+  year        = {2022},
+  arxiv       = {2104.04980},
+  html        = {https://link.springer.com/article/10.1007/s11263-022-01650-4},
+  doi         = {10.1007/s11263-022-01650-4},
+  abstract    = {Zero-shot learning, the task of learning to recognize new classes not seen during training, has received considerable attention in the case of 2D image classification. However, despite the increasing ubiquity of 3D sensors, the corresponding 3D point cloud classification problem has not been meaningfully explored and introduces new challenges. In this paper, we identify some of the challenges and apply 2D Zero-Shot Learning (ZSL) methods in the 3D domain to analyze the performance of existing models. Then, we propose a novel approach to address the issues specific to 3D ZSL. We first present an inductive ZSL process and then extend it to the transductive ZSL and Generalized ZSL (GZSL) settings for 3D point cloud classification. To this end, a novel loss function is developed that simultaneously aligns seen semantics with point cloud features and takes advantage of unlabeled test data to address some known issues (e.g., the problems of domain adaptation, hubness, and data bias). While designed for the particularities of 3D point cloud classification, the method is shown to also be applicable to the more common use-case of 2D image classification. An extensive set of experiments is carried out, establishing state-of-the-art for ZSL and GZSL on synthetic (ModelNet40, ModelNet10, McGill) and real (ScanObjectNN) 3D point cloud datasets.}
+}
+
+@inproceedings{chowdhury2021lwf,
+  abbr        = {IWANN},
+  bibtex_show = {true},
+  title       = {Learning without Forgetting for 3D Point Cloud Objects},
+  author      = {Chowdhury, Townim and Jalisha, Mahira and Cheraghian, Ali and Rahman, Shafin},
+  booktitle   = {Advances in Computational Intelligence (IWANN)},
+  pages       = {484--497},
+  publisher   = {Springer},
+  year        = {2021},
+  arxiv       = {2106.14275},
+  html        = {https://link.springer.com/chapter/10.1007/978-3-030-85030-2_40},
+  code        = {https://github.com/townim-faisal/lwf-3D},
+  video       = {http://iwann.ugr.es/virtuals2021/IWANN2021_073.mp4},
+  abstract    = {When we fine-tune a well-trained deep learning model for a new set of classes, the network learns new concepts but gradually forgets the knowledge of old training. In some real-life applications, we may be interested in learning new classes without forgetting the capability of previous experience. Such learning without forgetting problem is often investigated using 2D image recognition tasks. In this paper, considering the growth of depth camera technology, we address the same problem for the 3D point cloud object data. This problem becomes more challenging in the 3D domain than 2D because of the unavailability of large datasets and powerful pretrained backbone models. We investigate knowledge distillation techniques on 3D data to reduce catastrophic forgetting of the previous training. Moreover, we improve the distillation process by using semantic word vectors of object classes. We observe that exploring the interrelation of old and new knowledge during training helps to learn new concepts without forgetting old ones. Experimenting on three 3D point cloud recognition backbones (PointNet, DGCNN, and PointConv) and synthetic (ModelNet40, ModelNet10) and real scanned (ScanObjectNN) datasets, we establish new baseline results on learning without forgetting for 3D data.}
+}
+
+@article{rana2021lipid,
+  abbr        = {Circulation},
+  bibtex_show = {true},
+  title       = {Artificial Neural Network Models for Lipid Profile Prediction in the US General Population},
+  author      = {Rana, Juwel and Chowdhury, Townim and Rahman, Shafin and Oldroyd, John and Islam, Rakibul},
+  journal     = {Circulation},
+  volume      = {144},
+  number      = {Suppl 1},
+  pages       = {A12546},
+  year        = {2021},
+  website     = {https://jrana.shinyapps.io/lipidr/}
+}

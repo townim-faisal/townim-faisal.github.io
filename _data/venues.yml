@@ -1,0 +1,49 @@
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#7b2d8e"
+
+"ICCV":
+  url: https://thecvf.com/
+  color: "#00369f"
+
+"CVPR":
+  url: https://thecvf.com/
+  color: "#00369f"
+
+"ECCV":
+  url: https://www.ecva.net/
+  color: "#1f6f8b"
+
+"MICCAI":
+  url: https://miccai.org/
+  color: "#b5462b"
+
+"ICASSP":
+  url: https://signalprocessingsociety.org/
+  color: "#0b7a75"
+
+"KDD":
+  url: https://kdd.org/
+  color: "#5a5a5a"
+
+"IJCV":
+  url: https://link.springer.com/journal/11263
+  color: "#2b5d34"
+
+"CVIU":
+  url: https://www.sciencedirect.com/journal/computer-vision-and-image-understanding
+  color: "#2b5d34"
+
+"DICTA":
+  url: http://dicta.org.au/
+  color: "#8a6d1f"
+
+"ICPR":
+  color: "#5a5a5a"
+
+"IWANN":
+  color: "#5a5a5a"
+
+"Circulation":
+  url: https://www.ahajournals.org/journal/circ
+  color: "#a01c2c"

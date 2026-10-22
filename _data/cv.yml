@@ -1,0 +1,144 @@
+cv:
+  name: Townim Faisal Chowdhury
+  label: Postdoctoral Research Associate
+  email: faisal.townim@gmail.com
+  location: Perth, Australia
+
+  sections:
+    Experience:
+      - company: School of Earth and Oceans, The University of Western Australia
+        position: Postdoctoral Research Associate
+        location: Perth, Australia
+        start_date: 2026-08
+        summary: "Principal Investigator: Prof. Mark Jessell. Multimodal foundation models, trustworthy AI, geophysical AI."
+        highlights:
+          - Developing multimodal geophysical foundation models, with a focus on robust uncertainty quantification and physics-informed architectures.
+
+      - company: Cystic Fibrosis Airway Research Group (CFARG)
+        position: Postdoctoral Research Associate
+        location: Adelaide, Australia
+        start_date: 2026-03
+        summary: "Principal Investigator: A/Prof. Martin Donnelley. Medical imaging, spatio-temporal analysis, respiratory health."
+        highlights:
+          - Identifying spatio-temporal clinical biomarkers in X-ray velocimetry (XV) imaging of children and mice with cystic fibrosis, with clinicians at the Women's and Children's Hospital, Adelaide.
+
+      - company: Dolby Laboratories
+        position: Research Scientist Intern
+        location: Sydney, Australia
+        start_date: 2025-05
+        end_date: 2025-09
+        summary: Multimodal LLMs, modality analysis.
+        highlights:
+          - Studied interpretability and modality influence in audio LLM predictions using sparse autoencoders, published at ICASSP 2026 (Oral).
+
+      - company: Australian Institute for Machine Learning (AIML), Adelaide University
+        position: PhD Researcher
+        location: Adelaide, Australia
+        start_date: 2023-03
+        end_date: 2026-03
+        summary: "Supervisors: Dr. Zhibin Liao, Dr. Johan Verjans, Dr. Vu Minh Hieu Phan. Interpretable AI, multimodal foundation models."
+        highlights:
+          - Developed explainable AI methods for general and medical image analysis (CVPR 2024, MICCAI 2024, ICCV 2025, ICASSP 2026, NeurIPS 2026).
+          - Collaborated with three haematologists at SA Pathology to develop and evaluate anomaly detection models for monocyte images in Chronic Myelomonocytic Leukaemia (CMML) patients.
+          - Supervised several master's students on their research projects (COMP SCI 7104A & 7104B).
+
+      - company: Cefalo
+        position: Software Engineer (Data Engineer)
+        location: Dhaka, Bangladesh
+        start_date: 2022-11
+        end_date: 2023-03
+
+      - company: North South University
+        position: Research Assistant
+        location: Dhaka, Bangladesh
+        start_date: 2020-10
+        end_date: 2022-11
+        summary: "With Dr. Shafin Rahman (3D computer vision, meta-learning, domain adaptation) and Dr. Ahsanur Rahman (graph algorithms)."
+        highlights:
+          - Investigated semantic embeddings in knowledge distillation for continual learning on 3D point clouds (ECCV 2022, IJCV 2022).
+
+      - company: Brain Station 23
+        position: Senior Software Engineer (ML Engineer), R&D Team
+        location: Dhaka, Bangladesh
+        start_date: 2019-06
+        end_date: 2022-10
+        highlights:
+          - Built ML and data pipelines (Airflow, DVC, MLflow) for production computer vision systems and led the team working on them.
+
+    Education:
+      - institution: Adelaide University
+        location: Adelaide, Australia
+        area: Computer Science
+        studyType: PhD
+        start_date: 2023-03
+        end_date: 2026-03
+        highlights:
+          - "Thesis: Toward Interpretable Machine Intelligence in General and Medical Applications."
+          - Centre for Augmented Reasoning scholarship, Australian Institute for Machine Learning.
+
+      - institution: North South University
+        location: Dhaka, Bangladesh
+        area: Computer Science & Engineering
+        studyType: BSc
+        start_date: 2017-06
+        end_date: 2020-08
+        score: "CGPA: 3.91/4.00"
+        highlights:
+          - Summa cum laude.
+          - 75% merit-based tuition waiver.
+
+    Teaching:
+      - bullet: "**Casual Workshop Facilitator**, UniSA STEM, University of South Australia (2024). ENGG 4009: Engineering Honours Project A."
+      - bullet: "**Casual Industrial Supervisor**, RMIT University (2023 - 2024). Supervised student groups on industry projects."
+      - bullet: "**Teaching Assistant**, North South University (2020 - 2022). Data Structures & Algorithms, Design and Analysis of Algorithms, Machine Learning, Pattern Recognition, Introduction to Java."
+
+    Service:
+      - bullet: "Co-organiser, **MBH-Seg Challenge** (semi-supervised segmentation of brain haemorrhages in non-contrast CT), MICCAI 2024."
+
+    Awards:
+      - title: Oral presentation, Kingston AI Symposium
+        date: 2026-03
+        summary: Selected to present Mirror-CFE at a national forum showcasing leading AI research in Australia.
+
+      - title: Centre for Augmented Reasoning PhD Scholarship
+        date: 2023-03
+        awarder: Australian Institute for Machine Learning, University of Adelaide
+
+      - title: Runner-Up APRS/IAPR Best Paper Award, DICTA 2022
+        date: 2022-12
+        summary: For "Prompt-guided Scene Generation for 3D Zero-Shot Learning".
+
+      - title: Paul Dudley White International Scholar
+        date: 2021-11
+        awarder: American Heart Association
+        summary: Highest-ranked abstract submitted from Bangladesh to AHA Scientific Sessions 2021.
+
+      - title: Bronze Medal, Kaggle "chaii - Hindi and Tamil Question Answering"
+        date: 2021-11
+        awarder: Google Research India
+        url: https://www.kaggle.com/competitions/chaii-hindi-and-tamil-question-answering/overview
+
+      - title: 7th place, Allen Institute Cell Lineage Reconstruction DREAM Challenge (sub-challenge 1)
+        date: 2020-03
+        summary: Out of 28 teams and more than 100 participants.
+        url: https://www.synapse.org/#!Synapse:syn20692755/wiki/597060
+
+    Certificates:
+      - name: AWS Certified Machine Learning - Specialty
+        issuer: Amazon Web Services
+        date: 2022-05
+        url: https://www.credly.com/badges/3b89bdd1-06b5-4c98-b26b-bdac3b968d87/public_url
+
+      - name: Certified ScrumMaster (CSM)
+        issuer: Scrum Alliance
+        date: 2022-09
+        url: https://bcert.me/shkyedjlv
+
+    Skills:
+      - name: Research
+        icon: fa-solid fa-flask
+        keywords: "Explainable AI, mechanistic interpretability, uncertainty estimation, learning with noisy labels, vision-language models, medical image analysis"
+
+      - name: Engineering
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, scikit-learn, Airflow, DVC, MLflow, SQL, AWS, GCP, Azure"
