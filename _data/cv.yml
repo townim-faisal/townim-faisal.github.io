@@ -10,7 +10,7 @@ cv:
         position: Postdoctoral Research Associate
         location: Perth, Australia
         start_date: 2026-08
-        summary: "Principal Investigator: Prof. Mark Jessell. Multimodal foundation models, trustworthy AI, geophysical AI."
+        summary: "Principal Investigator: [Prof. Mark Jessell](https://research-repository.uwa.edu.au/en/persons/mark-jessell). Multimodal foundation models, trustworthy AI, geophysical AI."
         highlights:
           - Developing multimodal geophysical foundation models, with a focus on robust uncertainty quantification and physics-informed architectures.
 
@@ -18,7 +18,7 @@ cv:
         position: Postdoctoral Research Associate
         location: Adelaide, Australia
         start_date: 2026-03
-        summary: "Principal Investigator: A/Prof. Martin Donnelley. Medical imaging, spatio-temporal analysis, respiratory health."
+        summary: "Principal Investigator: [A/Prof. Martin Donnelley](https://researchers.adelaide.edu.au/profile/martin.donnelley). Medical imaging, spatio-temporal analysis, respiratory health."
         highlights:
           - Identifying spatio-temporal clinical biomarkers in X-ray velocimetry (XV) imaging of children and mice with cystic fibrosis, with clinicians at the Women's and Children's Hospital, Adelaide.
 
