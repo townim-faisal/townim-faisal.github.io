@@ -37,7 +37,7 @@ I received my PhD in Computer Science from the [Australian Institute for Machine
 ## Research Focus: Trustworthy and Interpretable AI
 {: .research-heading}
 
-**Research vision.** I aim to build AI systems that can be trusted when the stakes are high, as in healthcare. Trusting a model means being able to answer three questions: can its data and predictions be relied on, what has it learned, and why did it make a particular decision? My work develops methods to answer each of these, for both conventional deep networks and multimodal foundation models.
+**Research vision.** I aim to build AI systems that can be trusted when the stakes are high, as in healthcare. _My work rests on one principle: the evidence for trusting a model should come from the model itself, from its training dynamics, internal representations and decision boundaries, rather than from external approximations of it._ I apply this principle to three questions: can a model's data and predictions be relied on, what has it learned, and why did it make a particular decision? I study these questions for both conventional deep networks and multimodal foundation models.
 
 1. **Reliability:** _when should a model's data or predictions be doubted?_<br>
    Methods that detect mislabelled training data and measure uncertainty on ambiguous inputs, so unreliable samples and predictions can be flagged before they cause harm.<br>
