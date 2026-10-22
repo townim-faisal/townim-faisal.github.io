@@ -29,7 +29,7 @@ cv:
         end_date: 2025-09
         summary: Multimodal LLMs, modality analysis.
         highlights:
-          - Studied interpretability and modality influence in audio LLM predictions using sparse autoencoders, published at ICASSP 2026 (Oral).
+          - Studied interpretability and modality influence in AudioLLM predictions using sparse autoencoders, published at ICASSP 2026 (Oral).
 
       - company: Australian Institute for Machine Learning (AIML), Adelaide University
         position: PhD Researcher
