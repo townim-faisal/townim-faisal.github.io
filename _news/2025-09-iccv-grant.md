@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **ICCV 2025 Broadening Participation Travel Grant** to present **Mirror-CFE** at ICCV 2025 in Honolulu, Hawaii. :airplane:
+Received the **ICCV 2025 Broadening Participation Travel Grant** to attend ICCV 2025 in Honolulu, Hawaii. :airplane:
