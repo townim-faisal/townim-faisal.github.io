@@ -12,7 +12,7 @@ cv:
         start_date: 2026-08
         summary: "Principal Investigator: [Prof. Mark Jessell](https://research-repository.uwa.edu.au/en/persons/mark-jessell). Multimodal foundation models, trustworthy AI, geophysical AI."
         highlights:
-          - Developing multimodal geophysical foundation models, with a focus on robust uncertainty quantification and physics-informed architectures.
+          - Developing generative multimodal foundation models for geophysical data, focusing on reliable uncertainty estimates and physics-informed architectures.
 
       - company: Cystic Fibrosis Airway Research Group (CFARG)
         position: Postdoctoral Research Associate
@@ -20,7 +20,7 @@ cv:
         start_date: 2026-03
         summary: "Principal Investigator: [A/Prof. Martin Donnelley](https://researchers.adelaide.edu.au/profile/martin.donnelley). Medical imaging, spatio-temporal analysis, respiratory health."
         highlights:
-          - Developing reliable spatio-temporal clinical biomarkers in X-ray velocimetry (XV) imaging of children and mice with cystic fibrosis, with clinicians at the Women's and Children's Hospital, Adelaide.
+          - Discovering reliable clinical biomarkers and building a spatio-temporal lung ventilation atlas from X-ray velocimetry (XV) imaging of children and mice with cystic fibrosis, with clinicians at the Women's and Children's Hospital, Adelaide.
 
       - company: Dolby Laboratories
         position: Research Scientist Intern
